@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Parth.<br><br>I'm a BTech student currently focused on building a strong foundation in backend development and cloud technologies. I prefer learning by doing, so I spend most of my time working on Python and Flask projects rather than just reading theory.<br><br>Right now, I'm working on backend development using Python (Flask), improving my understanding of Git and version control, and learning how APIs and databases work in real-world applications.<br><br>My goal is to become a skilled backend developer and eventually work with cloud-based systems.<br><br>Tech stack: Python, Java (basic), Git, Flask (learning)<br>
+Hi, I'm Parth.<br><br>I'm a BTech student currently focused on building a strong foundation in backend development and cloud technologies. I prefer learning by doing, so I spend most of my time working on Python and Flask projects rather than just reading theory.<br><br>Right now, I'm working on backend development using Python (Flask), improving my understanding of Git and version control, and learning how APIs and databases work in real-world applications.<br><br>My goal is to become a skilled backend developer and eventually work with cloud-based systems.<br><br>Tech stack: Python,Bootstrap, Git, Flask (learning)<br>
 
 
 ## 🌐 Socials:
